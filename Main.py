@@ -39,10 +39,10 @@ def main():
 
 main()
 # Credentials of the developer for calling the Twitter API
-API_KEY = '	DtAQYZdw4ncGZvhrFEne9yryP'
-API_SECRET = 'ygoiqvhQ1Vxrv2JXlFAuxeXVmoQNgqegq2KbbLd2YS5EERAnbj'
-ACCESS_TOKEN = '885825714510888960-r63kAG7GMUyRGM0cIDPfSR54ksm86K8'
-ACCESS_TOKEN_SECRET = 'zaZqWTEHYFFjVJfDBhl4QV5rai4ULfBifY37wMGFoM9kX'
+API_KEY = '	DtAfdansjfZdw4fsdgvdgdgvdsncGZvhrFEne9yryP'
+API_SECRET = 'ygoiqvhQ1Vxrv2JXlFAuxeXgsdgdsgvdfgdsvfsfsVmoQNgqegq2KbbLd2YS5EERAnbj'
+ACCESS_TOKEN = '885jfkshdfiu589374548397983093sm86K8'
+ACCESS_TOKEN_SECRET = 'z840239374903275983nkjfsdoifhewoifskX'
 
 from twitter import Twitter,OAuth
 import pprint
